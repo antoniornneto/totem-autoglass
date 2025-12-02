@@ -47,6 +47,17 @@ O aplicativo funcionou como um **totem interativo**, oferecendo uma interface si
    npx expo start
 5. Abra o app usando o Expo Go no celular ou um emulador Android/iOS.
 
+## Build para Produção
+
+   Para gerar builds utilizando o EAS Build, execute:
+   ```bash
+   npx expo prebuild
+   npx expo build:android
+   npx expo build:ios
+   ```
+
+Ou siga as instruções da documentação oficial do Expo caso utilize eas build.
+
 ---
 
 ## 🎯 Objetivo do Projeto
