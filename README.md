@@ -1,7 +1,7 @@
 # Totem Autoglass – Aplicativo para Evento (Expo/React Native)
 
 Este projeto foi desenvolvido para a empresa **Autoglass** com o objetivo de servir como um aplicativo para tablets utilizado em uma feira comercial.  
-O aplicativo funcionou como um **totem interativo**, oferecendo uma interface simples e intuitiva para apresentação de produtos, coleta de informações e interação com visitantes do estande.
+O aplicativo funcionou como um **totem interativo**, oferecendo uma interface simples e intuitiva para um Q&A (perguntas e respostas), coletando informações dos próprios funcionários da empresa sobre formas de atendimento.
 
 ---
 
