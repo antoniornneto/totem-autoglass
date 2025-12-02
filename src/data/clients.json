@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Cliente 1",
+    "avatar": "../../assets/clients/client1.png",
+    "key": "client1"
+  },
+  {
+    "id": 1,
+    "name": "Cliente 2",
+    "avatar": "../../assets/clients/client2.png",
+    "key": "client2"
+  },
+  {
+    "id": 2,
+    "name": "Cliente 3",
+    "avatar": "../../assets/clients/client3.png",
+    "key": "client3"
+  },
+  {
+    "id": 3,
+    "name": "Cliente 4",
+    "avatar": "../../assets/clients/client4.png",
+    "key": "client4"
+  }
+]

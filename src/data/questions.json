@@ -1,0 +1,202 @@
+[
+  {
+    "id": 0,
+    "name": "Cliente 01",
+    "question": [
+      {
+        "id": "p1",
+        "part": "Uma cliente da seguradora Aliro foi direcionada para reparo de para-brisa após impacto de pedra. Durante o atendimento, o colaborador da unidade não informou previamente sobre o risco de agravamento da trinca durante o processo de reparo. Após o serviço, a cliente identificou novos danos e demonstrou insatisfação, alegando que não teria autorizado o serviço se soubesse do risco."
+      },
+      {
+        "id": "p2",
+        "part": "A cliente foi orientada a abrir um novo sinistro para substituição da peça, mas destacou que renunciar o vidro original não era uma decisão simples e que o problema poderia ter sido evitado com comunicação adequada. Além disso, relatou que permaneceu em espera por mais de 50 minutos com a seguradora e não obteve retorno, o que agravou sua insatisfação."
+      },
+      {
+        "id": "p3",
+        "part": "Ao chegar à Central de Relacionamento, a cliente estava frustrada e com baixa expectativa de resolução. A atuação da Central foi decisiva: houve escuta ativa, acolhimento, análise crítica do histórico e articulação com o consultor, que viabilizou a substituição por um novo para-brisa original, com registro de chassi e instalação móvel. A cliente aceitou a solução e encerrou destacando a mudança de percepção sobre a empresa."
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "alternative": "positive",
+        "text": "Reconhecer a falha na comunicação, apresentar sinceras desculpas, explicar tecnicamente o risco envolvido no reparo de trincas e oferecer substituição por para-brisa original com instalação móvel, visando minimizar o impacto à cliente."
+      },
+      {
+        "id": "B",
+        "alternative": "neutro",
+        "text": "Informar que o risco de agravamento é inerente ao procedimento de reparo e sugerir abertura de novo sinistro para substituição, sem reconhecer a falha na comunicação ou propor facilidades adicionais."
+      },
+      {
+        "id": "C",
+        "alternative": "negative",
+        "text": "Afirmar que a cliente autorizou o serviço e que os danos são consequência natural do processo, que é realizado pela seguradora."
+      }
+    ],
+    "positive": {
+      "id": "a",
+      "alternative": "a",
+      "text": "Excelente escolha! Você atuou com excelência, demonstrando alinhamento com os pilares da cultura da qualidade: transparência, empatia e foco na experiência do cliente. A resolução proativa e humanizada transformou uma situação crítica em uma oportunidade de fidelização."
+    },
+    "neutro": {
+      "id": "b",
+      "alternative": "b",
+      "text": "Embora tecnicamente correta, essa resposta ignora o impacto emocional e a expectativa do cliente. A cultura da qualidade exige escuta ativa, acolhimento e resolução completa, especialmente em casos sensíveis."
+    },
+    "negative": {
+      "id": "c",
+      "alternative": "c",
+      "text": "Essa abordagem não está alinhada com a cultura da qualidade. Ignorar a responsabilidade e não acolher o cliente pode comprometer a imagem da empresa. Você tem papel essencial em reverter percepções negativas e garantir uma jornada positiva."
+    }
+  },
+  {
+    "id": 1,
+    "name": "Cliente 02",
+    "question": [
+      {
+        "id": "p1",
+        "part": "Um cliente entrou em contato com a Central de Relacionamento solicitando a segunda via das notas fiscais referentes a dois serviços de substituição de vidros realizados em 2022 e 2024, acreditando que não seria possível devido à data das trocas do vidro dianteiro."
+      },
+      {
+        "id": "p2",
+        "part": "O cliente relatou que perdeu os documentos após mudança de residência e que necessita das notas fiscais para apresentação no Detran, com o objetivo de viabilizar a troca de titularidade do veículo. Ao chegar à Central de Relacionamento, o cliente estava preocupado com prazos e inseguro quanto à viabilidade da solicitação. A demanda foi registrada com clareza, encaminhada à unidade e acompanhada até a emissão e envio dos documentos. O cliente confirmou o recebimento e encerrou o atendimento elogiando a eficiência e atenção, destacando que superou suas expectativas."
+      },
+      {
+        "id": "p3",
+        "part": ""
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "alternative": "positive",
+        "text": "Registrar a solicitação com clareza, acionar imediatamente a unidade responsável, acompanhar o processo de emissão das segundas vias, garantir o envio ao cliente com agilidade e confirmar o recebimento. Demonstrar atenção à urgência e à finalidade legal da solicitação, reforçando o compromisso com a problemática do cliente."
+      },
+      {
+        "id": "B",
+        "alternative": "neutro",
+        "text": "Encaminhar a solicitação à unidade responsável, informar ao cliente que o retorno será feito quando possível. Tratar como uma demanda comum, sem considerar o impacto da ausência dos documentos."
+      },
+      {
+        "id": "C",
+        "alternative": "negative",
+        "text": "Informar que não é possível emitir segunda via de notas fiscais antigas, sugerir que o cliente procure alternativas junto ao Detran e encerrar o atendimento sem buscar solução ou oferecer suporte adicional."
+      }
+    ],
+    "positive": {
+      "id": "a",
+      "alternative": "a",
+      "text": "Excelente escolha! Você demonstrou proatividade, empatia e atenção à necessidade específica do cliente. A cultura da qualidade exige visualizar necessidades, agir com responsabilidade e garantir que o cliente se sinta amparado. Sua atuação foi decisiva para transformar uma demanda documental em uma experiência positiva."
+    },
+    "neutro": {
+      "id": "b",
+      "alternative": "b",
+      "text": "Embora a solicitação tenha sido registrada, a ausência de acompanhamento e priorização pode comprometer a experiência do cliente. A cultura da qualidade valoriza o cuidado em cada etapa do atendimento."
+    },
+    "negative": {
+      "id": "c",
+      "alternative": "c",
+      "text": "Essa abordagem não está alinhada com a cultura da qualidade. Negar suporte sem buscar alternativas demonstra falta de empatia e comprometimento. Nós temos o papel estratégico na resolução de demandas e na construção da imagem da empresa."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cliente 03",
+    "question": [
+      {
+        "id": "p1",
+        "part": "O cliente da seguradora Porto está aguardando a substituição de uma peça em seu veículo. Preocupado com a demora, ele entra em contato com a Central de Atendimento para entender o andamento do processo. Durante a conversa, ele percebe que não recebeu atualizações recentes e que as informações obtidas anteriormente não foram suficientes para esclarecer sua dúvida."
+      },
+      {
+        "id": "p2",
+        "part": "Sentindo-se inseguro quanto à previsão de conclusão do serviço, o cliente decide registrar uma reclamação formal. Pouco depois, o setor de Qualidade entra em contato com ele para entender melhor a situação e buscar uma solução."
+      },
+      {
+        "id": "p3",
+        "part": "O cliente diz: 'Olha, eu já liguei antes e me disseram uma coisa, mas quando fui à loja, me falaram outra. Ninguém me explicou direito o que está acontecendo, e agora sou eu que tenho que ficar correndo atrás. Isso não é atendimento de qualidade!'"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "alternative": "negative",
+        "text": "'Entendemos sua preocupação. O processo de substituição da peça está em andamento e conforme os prazos operacionais. Você será informado assim que houver uma atualização. Agradecemos o seu contato.'"
+      },
+      {
+        "id": "B",
+        "alternative": "positive",
+        "text": "'Agradeço por compartilhar sua experiência. Entendemos sua frustração e reconhecemos que a comunicação poderia ter sido mais clara e proativa. Pedimos desculpas pelo transtorno. Seu atendimento está em andamento e vamos acompanhar de perto para garantir que você receba atualizações precisas e no tempo certo. Como alternativa, ofertamos o direcionamento para outro local e a opção de reembolso caso não possa aguardar o prazo. Estamos aqui para resolver e melhorar.'"
+      },
+      {
+        "id": "C",
+        "alternative": "neutroNegative",
+        "text": "'Verificamos que o processo está em andamento e dentro dos prazos previstos. Reforçamos que a oficina também realiza atualizações diretamente com os clientes. Caso haja qualquer novidade, entraremos em contato.'"
+      }
+    ],
+    "negative": {
+      "id": "a",
+      "alternative": "a",
+      "text": "Que pena! Essa resposta não atende às expectativas de um atendimento com foco na qualidade. O cliente já está frustrado e precisa de clareza, acolhimento e soluções reais. Encerrar a conversa ou repetir informações genéricas pode aumentar a insatisfação. Na cultura da qualidade, reconhecemos falhas, agimos com empatia e buscamos resolver com transparência. Bora fazer melhor na próxima?"
+    },
+    "positive": {
+      "id": "b",
+      "alternative": "b",
+      "text": "Parabéns! Você escolheu a resposta que representa a cultura da qualidade: reconhecer falhas, agir com empatia e buscar a melhoria contínua. É assim que construímos confiança e excelência no atendimento!"
+    },
+    "neutroNegative": {
+      "id": "c",
+      "alternative": "c",
+      "text": "Que pena! Essa resposta não atende às expectativas de um atendimento com foco na qualidade. O cliente já está frustrado e precisa de clareza, acolhimento e soluções reais. Encerrar a conversa ou repetir informações genéricas pode aumentar a insatisfação. Na cultura da qualidade, reconhecemos falhas, agimos com empatia e buscamos resolver com transparência. Bora fazer melhor na próxima?"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Cliente 04",
+    "question": [
+      {
+        "id": "p1",
+        "part": "Um corretor entra em contato com a Central de Atendimento demonstrando insatisfação. Ele relata dificuldades para entender os critérios de autorização de determinados serviços e comenta, com tom de frustração:"
+      },
+      {
+        "id": "p2",
+        "part": "'Parece que cada vez é um critério diferente. Fica difícil explicar isso para o cliente. Eu preciso entender melhor como funciona.'"
+      },
+      {
+        "id": "p3",
+        "part": "O corretor está em busca de clareza e apoio para oferecer um atendimento mais assertivo ao segurado. O agente de atendimento precisa decidir como conduzir essa conversa."
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "alternative": "negative",
+        "text": "'Os critérios podem variar conforme o sistema e o tipo de serviço solicitado. É importante acompanhar as atualizações. Se tiver dúvidas específicas, pode consultar o manual. Obrigado pelo contato.'"
+      },
+      {
+        "id": "B",
+        "alternative": "neutroNegative",
+        "text": "'Esse tipo de dúvida é mais técnico. Vamos pedir ao setor responsável para avaliar a possibilidade de retornar o contato com você. Eles vão saber te orientar melhor.'"
+      },
+      {
+        "id": "C",
+        "alternative": "positive",
+        "text": "Entendo sua preocupação, e agradeço por trazer esse ponto. Os critérios podem variar conforme o tipo de serviço, mas vamos te ajudar a entender melhor. Vou te explicar o processo e como funciona o modelo de análise, mas os detalhes estão disponíveis no manual. Você sabe como localizá-lo no site? Caso não saiba, eu posso te ajudar. A parceria com você é essencial para que o segurado tenha uma boa experiência."
+      }
+    ],
+    "negative": {
+      "id": "a",
+      "alternative": "a",
+      "text": "Que pena! Essa resposta pode gerar ainda mais frustração no corretor e prejudicar a parceria. A cultura da qualidade exige empatia, clareza e colaboração. Lembre-se: quando o parceiro entende o processo, ele consegue atender melhor o segurado, e isso reflete diretamente na imagem da empresa."
+    },
+    "neutroNegative": {
+      "id": "b",
+      "alternative": "b",
+      "text": "Que pena! Essa resposta pode gerar ainda mais frustração no corretor e prejudicar a parceria. A cultura da qualidade exige empatia, clareza e colaboração. Lembre-se: quando o parceiro entende o processo, ele consegue atender melhor o segurado, e isso reflete diretamente na imagem da empresa."
+    },
+    "positive": {
+      "id": "c",
+      "alternative": "c",
+      "text": "Excelente! A cultura da qualidade valoriza a comunicação clara e o relacionamento com nossos parceiros. Corretor bem-informado é cliente bem atendido."
+    }
+  }
+]
